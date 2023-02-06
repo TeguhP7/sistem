@@ -15,7 +15,7 @@
     <div class="container mt-5">
         <div class="row">
             <div class="col-md-12">
-                <a href="<?= base_url('form_tambah_data') ?>" class="btn btn-primary mb-3">Tambah Data</a>
+                <a href="<?= base_url('form_tambah_data') ?>" class="btn btn-primary mb-3">+ Tambah Data</a>
                 <table class="table table-success table-striped">
                     <thead class="thead-dark">
                         <tr align="center">
