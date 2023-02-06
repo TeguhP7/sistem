@@ -31,7 +31,7 @@
                         <label for="alamat" class="form-label">Alamat</label>
                         <input type="text" class="form-control" name="alamat" id="alamat">
                     </div>
-                    <button type="submit" class="btn btn-primary">Submit</button>
+                    <button type="submit" class="btn btn-primary">+ Tambah Data</button>
                 </form>
             </div>
         </div>
